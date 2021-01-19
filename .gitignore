@@ -1,0 +1,9 @@
+/**/.idea/
+01-go-level-1/**/.idea/
+01-go-level-1/.DS_Store
+.DS_Store
+01-go-level-1/**/pkg/
+01-go-level-1/**/bin/
+.idea
+go.mod
+go.sum
