@@ -87,7 +87,7 @@ func hossJump(quit chan int, width, height int, board [][]int, pos int, col int,
 }
 
 func main() {
-	var N,M = 8,7
+	var N,M = 8,8
 	if okBoard:=passBoard(N, M); okBoard != nil {
 		for i:=0;i<len(okBoard);i++ {
 			fmt.Println(okBoard[i])
