@@ -82,7 +82,7 @@ func printer(n *TreeNode, lvl int) {
 	if n != nil {
 		str := ""
 		for i:=0;i < lvl; i++ {
-			str += "           "
+			str += "............."
 		}
 		str += "---[ "
 		lvl++
